@@ -47,3 +47,5 @@ New terminal
 ```
 $rostopic echo cmd_vel
 ```
+## Paso 5: NO CORRER SIN PRECAUCIÓN
+![imagen](https://user-images.githubusercontent.com/30931267/131203072-b9937fbf-e854-471e-bc99-809a7f866c51.png)
