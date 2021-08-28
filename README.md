@@ -3,11 +3,11 @@
 ## Paso 1: Correr tópicos de la zed
 New terminal
 ```
-$roslaunch zed_wrapper zed2.launch
+roslaunch zed_wrapper zed2.launch
 ```
 New terminal
 ```
-$rosrun zed_depth_sub_tutorial zed_depth_sub
+rosrun zed_depth_sub_tutorial zed_depth_sub
 ```
     _Si se desea revisar la zed correr en otra terminal rqt Iage View
     ```
