@@ -24,9 +24,9 @@ $rostopic echo flag/nav_auto
 ```
 New Terminal (Para Introducir los comandos)
 ```
-$#Para deshabilitar la navegación autónoma
+//Para deshabilitar la navegación autónoma
 $rostopic pub /total_control/nav_auto std_msgs/String "'0'"
-$#Para habilitar la navegación autónoma
+//Para habilitar la navegación autónoma
 $rostopic pub /total_control/nav_auto std_msgs/String "'1'"
 ```
 ## Paso 3: Correr paquete decisión_auto
